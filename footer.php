@@ -64,15 +64,15 @@
 					</p>
 
 					<div class="p-t-27">
-						<a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+						<a href="https://emsi.ma/" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
 							<i class="fa fa-facebook"></i>
 						</a>
 
-						<a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+						<a href="https://emsi.ma/" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
 							<i class="fa fa-instagram"></i>
 						</a>
 
-						<a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+						<a href="https://emsi.ma/" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
 							<i class="fa fa-pinterest-p"></i>
 						</a>
 					</div>
@@ -123,7 +123,7 @@
 
 				<p class="stext-107 cl6 txt-center">
 					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This Project is made by <b>Pratik Ginoya</b> using PHP, for learning purpose only...
+					Emsi-Students 4IIR G-4
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 
 				</p>

@@ -10,7 +10,7 @@ if (isset($_POST['submit_msg']))
 	$name = $_POST['name'];
 	$email = $_POST['email'];
 	$msg = $_POST['msg'];
-	date_default_timezone_set('Asia/Kolkata');
+	date_default_timezone_set('Africa/Casablanca');;
 	$time = date('Y-m-d H:i:s');
 
 	$sql_insert = "insert into `contact_us`(`name`,`email`,`msg`,`time`)values('$name','$email','$msg','$time')";
@@ -69,9 +69,9 @@ if (isset($_POST['submit_msg']))
 							</span>
 
 							<p class="stext-115 cl6 size-213 p-t-18">
-								Coza Store Center 8th floor, 379 Hudson St, New York, NY 10018 US
-								(This website is not live, its made for learning purpose only, <br>
-								email : pratikginoya194@gmail.com | mobile : 9662624947)
+								Emsi Gueliz Marrakech
+								(School Project , its made for learning purpose only, <br>
+								email : Emsi-studentt@gmail.com | mobile : ********)
 							</p>
 						</div>
 					</div>
@@ -87,7 +87,7 @@ if (isset($_POST['submit_msg']))
 							</span>
 
 							<p class="stext-115 cl1 size-213 p-t-18">
-								+1 800 123687
+								+***********
 							</p>
 						</div>
 					</div>
@@ -103,7 +103,7 @@ if (isset($_POST['submit_msg']))
 							</span>
 
 							<p class="stext-115 cl1 size-213 p-t-18">
-								contact@example.com
+								Emsi-studentt@gmail.com
 							</p>
 						</div>
 					</div>
@@ -115,9 +115,8 @@ if (isset($_POST['submit_msg']))
 	
 	<!-- Map -->
 	<div style="width: 100%;">
-		<!-- <div class="size-303" id="google_map" data-map-x="40.691446" data-map-y="-73.886787" data-pin="images/icons/pin.png" data-scrollwhell="0" data-draggable="1" data-zoom="11"></div> -->
-		<iframe style="width: 100%;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d238132.67289598443!2d72.65748678122783!3d21.159440562025313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04e59411d1563%3A0xfe4558290938b042!2sSurat%2C%20Gujarat!5e0!3m2!1sen!2sin!4v1699700470532!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-	</div>	
+		<iframe style="width: 100%;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13437.295241754258!2d-8.0120077!3d31.6309618!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdafe987bc6c8a7f%3A0x3a13b0150a5f4d09!2sMarrakech%2C%20Morocco!5e0!3m2!1sen!2sma!4v1716023090000!5m2!1sen!2sma" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	</div>
 
 <?php include_once 'footer.php'; ?>
 
